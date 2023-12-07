@@ -1,0 +1,8 @@
+name: MobRewards
+version: 1.0.0
+main: xyz.marshalldev.mobrewards.MobRewards
+api-version: '1.20'
+load: STARTUP
+depend: [WorldGuard, MythicMobs]
+authors: [Marshall]
+description: A Minecraft plugin to run commands when Mob/Region/World criteria are met

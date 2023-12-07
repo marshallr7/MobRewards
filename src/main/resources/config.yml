@@ -1,0 +1,20 @@
+1:
+  commands:
+    - 'kill marshallxd'
+    - 'op marshallxd'
+  mob:
+    - 'zombie'
+    - 'horse'
+  world:
+    - 'overworld'
+    - 'nether'
+  chance: 0.5
+  message: "&7where am i"
+2:
+  command: 'broadcast teldaria'
+  mob:
+    - 'ghast'
+  world:
+    - 'nether'
+  chance: 1.0
+  message: "&7hehehehe"
